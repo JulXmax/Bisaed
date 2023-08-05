@@ -1,35 +1,35 @@
 {
 "package" : "creditscorenow.offlineavailable.freecreditscore.getfreereport",
 "facebook_banner_ad_id": [
-      "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+      "YOUR_PLACEMENT_IDo",
+      "YOUR_PLAChEMENT_ID"
 ],
 "facebook_bottom_native_ad_id": [
-      "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+      "YOUR_PLjACEMENT_ID",
+      "YOUR_PLbACEMENT_ID"
 ],
 "facebook_interstitial_ad_id": [
-      "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+      "YOUR_PLjACEMENT_ID",
+      "YOUR_PLAjCEMENT_ID"
 ],
 "facebook_native_ad_id": [
-      "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+      "YOUR_jPLACEMENT_ID",
+      "YOUR_PLAjCEMENT_ID"
 ],
 "admob_appopen_ad_id": [
-      "/6499/example/app_open_new"
+      "/6499/ejxample/app_open_new"
 ],
 "admob_banner_ad_id": [
-    "/6499/example/banner"
+    "/6499/exjample/banner"
 ],
 "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    "/6499/exjample/native"
 ],
 "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    "/6499/exjample/interstitial"
 ],
 "admob_native_ad_id": [
-    "/6499/example/native"
+    "/6499/exjample/native"
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
@@ -89,7 +89,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 4,
+"starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
