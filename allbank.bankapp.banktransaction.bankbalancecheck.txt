@@ -12,8 +12,8 @@
       "YOUR_PLACEMENT_IDo",
       "YOUR_PLACkEMENT_ID"
 ],
-"facebook_native_ado_id": [
-      "YOUR_PLACEMENT_ID",
+"facebook_native_ad_id": [
+      "YOUR_PLACoEMENT_ID",
       "YOUR_PLACoEMENT_ID"
 ],
 "admob_appopen_ad_id": [
