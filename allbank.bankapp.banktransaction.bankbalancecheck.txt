@@ -1,35 +1,31 @@
 {
 "package" : "allbank.bankapp.banktransaction.bankbalancecheck",
 "facebook_banner_ad_id": [
-      "YOUR_PLACEMENT_IDo",
-      "YOUR_PLACEMENT_IDo"
+      ""
 ],
 "facebook_bottom_native_ad_id": [
-      "YOUR_PLACEMENT_IDo",
-      "YOUR_PLACEMENT_oID"
+      ""
 ],
 "facebook_interstitial_ad_id": [
-      "YOUR_PLACEMENT_IDo",
-      "YOUR_PLACkEMENT_ID"
+      ""
 ],
 "facebook_native_ad_id": [
-      "YOUR_PLACoEMENT_ID",
-      "YOUR_PLACoEMENT_ID"
+      ""
 ],
 "admob_appopen_ad_id": [
-      "/6499/exampkle/app_open_new"
+      ""
 ],
 "admob_banner_ad_id": [
-    "/6499/examkple/banner"
+    ""
 ],
 "admob_bottom_native_ad_id": [
-    "/6499/exakmple/native"
+    ""
 ],
 "admob_interstitial_ad_id": [
-    "/6499/exkample/interstitial"
+    ""
 ],
 "admob_native_ad_id": [
-    "/6499/exkkample/native"
+    ""
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
@@ -65,13 +61,13 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": false,
+"ads_free": true,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
 "quizzo_show": true,
 "quizzo_header_show": false,
-"redirect": true,
+"redirect": false,
 "id_failed_load_or_not": true,
 "check_online": true,
 "privacy_screen": true,
@@ -89,7 +85,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 5,
+"starting_screen_content_show": 0,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
