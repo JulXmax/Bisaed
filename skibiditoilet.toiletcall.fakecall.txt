@@ -1,5 +1,5 @@
 {
-"package" : "allbank.bankapp.banktransaction.bankbalancecheck",
+"package" : "skibiditoilet.toiletcall.fakecall",
 "facebook_banner_ad_id": [
       ""
 ],
