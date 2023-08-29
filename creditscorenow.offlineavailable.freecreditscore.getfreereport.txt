@@ -4,13 +4,13 @@
       ""
 ],
 "facebook_bottom_native_ad_id": [
-      ""
+      "816699176591902_816703066591513"
 ],
 "facebook_interstitial_ad_id": [
       ""
 ],
 "facebook_native_ad_id": [
-      ""
+      "816699176591902_816703066591513"
 ],
 "admob_appopen_ad_id": [
       ""
