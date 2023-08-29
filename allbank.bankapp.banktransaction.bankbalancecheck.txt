@@ -13,7 +13,7 @@
       ""
 ],
 "admob_appopen_ad_id": [
-      ""
+      "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/AopSM"
 ],
 "admob_banner_ad_id": [
     "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/BannerSM"
