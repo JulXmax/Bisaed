@@ -13,19 +13,19 @@
       ""
 ],
 "admob_appopen_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Open_Live_Con"
 ],
 "admob_banner_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Banner_Live_Con"
 ],
 "admob_bottom_native_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Native_Live_Con2"
 ],
 "admob_interstitial_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Inter_Live_Con"
 ],
 "admob_native_ad_id": [
-    ""
+    "/22798352804,22854404648/ca-mb-app-pub-3068255257089060-tag/Native_Live_Con2"
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
@@ -61,7 +61,7 @@
 "app_open_interstitial_show": "false",
 "app_open_interstitial_ads_click": "0",
 "app_open_interstitial_back_click": "0",
-"ads_free": true,
+"ads_free": false,
 "one_id_load_thay_hoy_ne": true,
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
@@ -84,7 +84,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 0,
+"starting_screen_content_show": 5,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
