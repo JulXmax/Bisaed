@@ -1,5 +1,5 @@
 {
-"package" : "skibiditoilet.toiletcall.fakecall",
+"package" : "conference.meetingroom.videocall.livemeeting",
 "facebook_banner_ad_id": [
       "YOUR_PLACEMENT_ID",
       "YOUR_PLACEMENT_ID"
