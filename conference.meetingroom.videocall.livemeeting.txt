@@ -1,16 +1,16 @@
 {
 "package" : "conference.meetingroom.videocall.livemeeting",
 "facebook_banner_ad_id": [
-      ""
+      "636456871945416_636464351944668"
 ],
 "facebook_bottom_native_ad_id": [
-      ""
+      "636456871945416_636464481944655"
 ],
 "facebook_interstitial_ad_id": [
-      ""
+      "636456871945416_636464431944660"
 ],
 "facebook_native_ad_id": [
-      ""
+      "636456871945416_636464481944655"
 ],
 "admob_appopen_ad_id": [
     ""
@@ -27,7 +27,7 @@
 "admob_native_ad_id": [
     ""
 ],
-"orginic_ads_type": "admob",
+"orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
 "orginic_facebook_page_wise": false,
 "orginic_facebook_native_ads_click": 1,
@@ -44,7 +44,7 @@
 "orginic_app_open_interstitial_show": "false",
 "orginic_app_open_interstitial_ads_click": "0",
 "orginic_app_open_interstitial_back_click": "0",
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "facebook_page_wise": false,
 "facebook_native_ads_click": 1,
@@ -66,7 +66,7 @@
 "is_live": true,
 "quizzo_link": "https://play771.atmegame.com",
 "quizzo_show": true,
-"quizzo_header_show": true,
+"quizzo_header_show": false,
 "redirect": false,
 "id_failed_load_or_not": true,
 "privacy_screen": true,
