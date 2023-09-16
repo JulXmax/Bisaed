@@ -73,7 +73,7 @@
 "quizzo_show": false,
 "quizzo_header_show": false,
 "redirect": false,
-"id_failed_load_or_not": true,
+"id_failed_load_or_not": false,
 "check_online": true,
 "privacy_screen": true,
 "emergency": false,
