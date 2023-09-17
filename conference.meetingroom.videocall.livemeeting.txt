@@ -13,19 +13,19 @@
       "636456871945416_636464481944655"
 ],
 "admob_appopen_ad_id": [
-    ""
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_AppOpen"
 ],
 "admob_banner_ad_id": [
-    ""
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Banner"
 ],
 "admob_bottom_native_ad_id": [
-    ""
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native"
 ],
 "admob_interstitial_ad_id": [
-    ""
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Interstitial"
 ],
 "admob_native_ad_id": [
-    ""
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native"
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
