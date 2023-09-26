@@ -13,24 +13,19 @@
       "636456871945416_636464481944655"
 ],
 "admob_appopen_ad_id": [
-    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_AppOpen",
-    "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/Aop2188"
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_AppOpen"
 ],
 "admob_banner_ad_id": [
-    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Banner",
-    "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/Banner9128"
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Banner"
 ],
 "admob_bottom_native_ad_id": [
-    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native",
-    "/22798352804,22805009155/ca-pub-3068255257089060-tag/Native1287"
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native"
 ],
 "admob_interstitial_ad_id": [
-    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Interstitial",
-    "/22798352804,22805009155/ca-mb-app-pub-3068255257089060-tag/Inter8923"
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Interstitial"
 ],
 "admob_native_ad_id": [
-    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native",
-    "/22798352804,22805009155/ca-pub-3068255257089060-tag/Native1287"
+    "/21753324030,22878715650/conference.meetingroom.videocall.livemeeting_Native"
 ],
 "orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
