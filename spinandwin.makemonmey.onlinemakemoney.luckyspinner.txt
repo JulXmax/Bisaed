@@ -1,0 +1,530 @@
+{
+    "AppDataSet": {
+        "razorpayID": "rzp_live_wLqPMgmzMLIuco",
+        "CashFreeApi": "597595895c8f2f06f4cc55fb295795",
+        "PayemntGatway": "3",
+        "reviewtag": "1",
+        "qureka.com": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a",
+        "SpinAdsCount": "50",
+        "fullAdsCount": "50",
+        "Solt20count": "5",
+        "Solt20Value1": "100",
+        "Solt20Value": "95",
+        "Solt20Discount": "5",
+        "Bouns20": "1",
+        "Solt50count": "15",
+        "Solt50Value1": "1000",
+        "Solt50Value": "150",
+        "Solt50Discount": "80",
+        "Bouns50": "1",
+        "Solt100count": "20",
+        "Solt100Value1": "2000",
+        "Solt100Value": "300",
+        "Solt100Discount": "85",
+        "Bouns100": "1",
+        "Solt500count": "10",
+        "Solt500Value1": "5000",
+        "Solt500Value": "500",
+        "Solt500Discount": "90",
+        "Bouns500": "1",
+        "PaymentMode": "1",
+        "Withdrawlimit": "1199",
+        "ViewPayment": "0",
+        "UPIName": "UPI Payment",
+        "UPINameID": "1",
+        "UpiID": "fcbizcer6ts@freecharge",
+        "UpiID2": "fcbizcer6ts@freecharge",
+        "WhatsappNo": "+919558523",
+        "RatingApp": "1",
+        "AddM": "2",
+        "Tryle": "99",
+        "Personal": "149",
+        "Business": "199"
+    },
+    "MoreAppsGif": [
+        {
+            "name": "Spin For Animal : 5x Money",
+            "icon": "https://play-lh.googleusercontent.com/j6IOEBZZlcnrzzaglfc-V9u4qD0_mZmBCRuejRwVV9ynC_De2MxAvx3BPLVXIxnlLg=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.animalgame.skillforapp"
+        },
+        {
+            "name": "Visit For Earn : Make Money",
+            "icon": "https://play-lh.googleusercontent.com/_rwWTpvuuUD1IQxp-d6fKUyFYQyaazxhj7KHfT2nEoHKrxHfXhalvl1lf85GQgVNGA=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.fivexapp.skill.visitearnapp"
+        },
+        {
+            "name": "5x Money : Win 5X More Money",
+            "icon": "https://play-lh.googleusercontent.com/ucx7FOKJYYdVbF7b5qn92Cs5KzAeDAvC6UfVGNOW0qAWru5J_3WVdOehBWPNOBGbT1ts=w240-h480-rw",
+            "link": "https://realmoneyspin.com/5xmoney/5xmoney.html"
+        },
+        {
+            "name": "Spin For Earn - Earn Dollar",
+            "icon": "https://play-lh.googleusercontent.com/VlvnkFvILDBEeb2QKlEUP1pfPWprAMQp6dYGLXPrpUm5wh0F4LIc_k6Up244Y4L_LKE=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.hirapara.spin.fors.earn"
+        },
+        {
+            "name": "Auto Call Recording App",
+            "icon": "https://play-lh.googleusercontent.com/MIJfeGN1_SJ2hvxGZhpMHhNM8oP7WUlcit7R8pSwafJq6w27NUefcmqRmPIci0n8Gqc=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.autocallrecorder.callrecorder.allcall"
+        },
+        {
+            "name": "5x Money",
+            "icon": "https://play-lh.googleusercontent.com/mTjjT-ZCOGOlsdF9Pux7Vei43V1aritM0KJ9llsS1IJPbrjY1opvKRYcB6FNENqVcyE=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.fivexmoney.luckyspinner.game"
+        }
+    ],
+    "SupperWinner": [
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/01.jpeg"
+        },
+        {
+            "link": "https://phpstack-921939-3200340.cloudwaysapps.com/supper_winner/02.jpg"
+        }
+    ],
+    "AdsUrl": [
+        {
+            "AdsUrl": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "AdsUrl": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        }
+    ],
+    "MoreApps": [
+        {
+            "name": "Spin For Animal : 5x Money",
+            "icon": "https://play-lh.googleusercontent.com/j6IOEBZZlcnrzzaglfc-V9u4qD0_mZmBCRuejRwVV9ynC_De2MxAvx3BPLVXIxnlLg=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.animalgame.skillforapp"
+        },
+        {
+            "name": "Visit For Earn : Make Money",
+            "icon": "https://play-lh.googleusercontent.com/_rwWTpvuuUD1IQxp-d6fKUyFYQyaazxhj7KHfT2nEoHKrxHfXhalvl1lf85GQgVNGA=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.fivexapp.skill.visitearnapp"
+        },
+        {
+            "name": "5x Money : Win 5X More Money",
+            "icon": "https://play-lh.googleusercontent.com/ucx7FOKJYYdVbF7b5qn92Cs5KzAeDAvC6UfVGNOW0qAWru5J_3WVdOehBWPNOBGbT1ts=w240-h480-rw",
+            "link": "https://realmoneyspin.com/5xmoney/5xmoney.html"
+        },
+        {
+            "name": "Spin For Earn - Earn Dollar",
+            "icon": "https://play-lh.googleusercontent.com/VlvnkFvILDBEeb2QKlEUP1pfPWprAMQp6dYGLXPrpUm5wh0F4LIc_k6Up244Y4L_LKE=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.hirapara.spin.fors.earn"
+        },
+        {
+            "name": "Auto Call Recording App",
+            "icon": "https://play-lh.googleusercontent.com/MIJfeGN1_SJ2hvxGZhpMHhNM8oP7WUlcit7R8pSwafJq6w27NUefcmqRmPIci0n8Gqc=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.autocallrecorder.callrecorder.allcall"
+        },
+        {
+            "name": "5x Money",
+            "icon": "https://play-lh.googleusercontent.com/mTjjT-ZCOGOlsdF9Pux7Vei43V1aritM0KJ9llsS1IJPbrjY1opvKRYcB6FNENqVcyE=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.fivexmoney.luckyspinner.game"
+        }
+    ],
+    "qureka.com": [
+        {
+            "Header": "Play & Win Coins Daily.",
+            "Body": "Come play Cricket contests running for 50,000 Coins daily.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/1.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/5.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Play Quiz & Win Upto 50,000 Coins",
+            "Body": "No install required! Play Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/7.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/4.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Quiz for 15,000 Coins calling you!📞",
+            "Body": "Play Qureka GK quiz to win now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/3.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/7.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Pool prize is 50,000 coins",
+            "Body": "Sharpen your Cricket knowledge & win now 📖📚",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/8.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/16.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Tap here & grab your share of 15,000 coins now! 😍",
+            "Body": "Play GK quiz, increase your knowledge & WIN 📚",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/10.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/29.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Aaj Math Quiz khela kya?",
+            "Body": "Play and win coins now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/12.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/21.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Who was the first president of India?",
+            "Body": "Play History Quiz & win coins now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/13.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/14.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Time to Win Now!",
+            "Body": "Play Bollywood Quizzes  & win coins daily",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/4.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/8.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Innings for 50,000 coins",
+            "Body": "IPL Quiz Khelo aur Jeeto coins. No install required.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/2.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/31.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Prize Pool: 50,000 Coins| No install required",
+            "Body": "Play IPL contest! Khelo aur jeeto .",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/9.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/25.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Jeeto 10,000 Coins",
+            "Body": "Show your Math knowledge & Win Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/5.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/15.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Jeeto 10,000 Coins",
+            "Body": "Test your tech skills & win now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/13.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/9.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Mega quiz for 5,00,000 coins live",
+            "Body": "Play now & win some coins. No install required.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/4.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/16.jpg",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Play & Win Coins Daily.",
+            "Body": "Come play Cricket Match prediction for 50,000 Coins daily.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/14.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred01.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Play Sports prediction Contest & Win Upto 50,000 Coins",
+            "Body": "No install required! predict Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/15.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred02.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Today Match Toss Win prediction Contest",
+            "Body": "predict and Win Now!",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/16.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred03.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Pool prize is 50,000 coins",
+            "Body": "Cricket  prediction Contest is Live! predict Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/17.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred04.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "Cricket toss prediction free for 50,000 Coins",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/18.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred05.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "predict the match score & Win Coins now!",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/19.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred06.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "Who will win Cricket match today?",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/20.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred07.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Time to Win Now!",
+            "Body": "Play Bollywood prediction  & win coins daily",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/14.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred08.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Innings for 50,000 coins",
+            "Body": "prediction Champ Khelo aur Jeeto coins. No install required.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/15.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred09.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Cricket prediction! Khelo aur jeeto .",
+            "Body": "Prize Pool: 50,000 Coins| No install required",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/16.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred10.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict & Win Now",
+            "Body": "Who will be man of the match in today's match?",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/17.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred11.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Play & Win Coins Daily.",
+            "Body": "Come play Cricket Match prediction for 50,000 Coins daily.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/14.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred12.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Play Sports prediction Contest & Win Upto 50,000 Coins",
+            "Body": "No install required! predict Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/15.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred13.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Today Match Toss Win prediction Contest",
+            "Body": "predict and Win Now!",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/16.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred14.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Pool prize is 50,000 coins",
+            "Body": "Cricket  prediction Contest is Live! predict Now",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/17.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred15.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "Cricket toss prediction free for 50,000 Coins",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/18.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred16.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "predict the match score & Win Coins now!",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/19.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred17.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict and Win Now!",
+            "Body": "Who will win Cricket match today?",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/20.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred18.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Time to Win Now!",
+            "Body": "Play Bollywood prediction  & win coins daily",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/14.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred19.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Innings for 50,000 coins",
+            "Body": "prediction Champ Khelo aur Jeeto coins. No install required.",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/15.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred20.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "Cricket prediction! Khelo aur jeeto .",
+            "Body": "Prize Pool: 50,000 Coins| No install required",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/16.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred21.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        },
+        {
+            "Header": "predict & Win Now",
+            "Body": "Who will be man of the match in today's match?",
+            "Icon": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_icon/17.gif",
+            "Banner": "https://phpstack-921939-3200340.cloudwaysapps.com/qureka_banner/pred22.png",
+            "Url": "https://www.highcpmrevenuegate.com/u7d7fu21?key=10b5a1b2c6402cfc7441dfc0c67e195a"
+        }
+    ],
+    "MarketHub": [
+        {
+            "discount": "0",
+            "spin": "5",
+            "amount": "50"
+        },
+        {
+            "discount": "4",
+            "spin": "10",
+            "amount": "96"
+        },
+        {
+            "discount": "8",
+            "spin": "15",
+            "amount": "138"
+        },
+        {
+            "discount": "8",
+            "spin": "15",
+            "amount": "138"
+        }
+    ],
+    "review": [
+        {
+            "name": "chayaharindra chayaharindra",
+            "Review": "Today!! 🏆 Win 💰 Rs.21000 & Withdraw Money."
+        },
+        {
+            "name": "Roopashree Dhanasingh",
+            "Review": "Today!! 🏆 Win 💰 Rs.22000 & Withdraw Money."
+        },
+        {
+            "name": "Jyoti Gupta",
+            "Review": "Today!! 🏆 Win 💰 Rs.23000 & Withdraw Money."
+        },
+        {
+            "name": "Maneesh Tewatia",
+            "Review": "Today!! 🏆 Win 💰 Rs.24000 & Withdraw Money."
+        },
+        {
+            "name": "Ameeni shah Azarudeen",
+            "Review": "Today!! 🏆 Win 💰 Rs.25000 & Withdraw Money."
+        },
+        {
+            "name": "udita Baghel",
+            "Review": "Today!! 🏆 Win 💰 Rs.26000 & Withdraw Money."
+        },
+        {
+            "name": "Ravi Kumar",
+            "Review": "Today!! 🏆 Win 💰 Rs.27000 & Withdraw Money."
+        },
+        {
+            "name": "Darpan Pandya",
+            "Review": "Today!! 🏆 Win 💰 Rs.28000 & Withdraw Money."
+        },
+        {
+            "name": "satyendra yadav",
+            "Review": "Today!! 🏆 Win 💰 Rs.29000 & Withdraw Money."
+        },
+        {
+            "name": "Mukesh Kumar",
+            "Review": "Today!! 🏆 Win 💰 Rs.30000 & Withdraw Money."
+        },
+        {
+            "name": "Deepak boriwal",
+            "Review": "Today!! 🏆 Win 💰 Rs.31000 & Withdraw Money."
+        },
+        {
+            "name": "Sumit Sarode",
+            "Review": "Today!! 🏆 Win 💰 Rs.32000 & Withdraw Money."
+        },
+        {
+            "name": "Parminder Singh",
+            "Review": "Today!! 🏆 Win 💰 Rs.33000 & Withdraw Money."
+        },
+        {
+            "name": "latika roy",
+            "Review": "Today!! 🏆 Win 💰 Rs.34000 & Withdraw Money."
+        },
+        {
+            "name": "SRIDHAR CHANDRA MAJUMDER",
+            "Review": "Today!! 🏆 Win 💰 Rs.35000 & Withdraw Money."
+        },
+        {
+            "name": "SUNIL KUMAR",
+            "Review": "Today!! 🏆 Win 💰 Rs.36000 & Withdraw Money."
+        },
+        {
+            "name": "Pranjal Nikam",
+            "Review": "Today!! 🏆 Win 💰 Rs.37000 & Withdraw Money."
+        },
+        {
+            "name": "Hemuahir Vadhiy",
+            "Review": "Today!! 🏆 Win 💰 Rs.38000 & Withdraw Money."
+        },
+        {
+            "name": "abubakar kodi",
+            "Review": "Today!! 🏆 Win 💰 Rs.39000 & Withdraw Money."
+        },
+        {
+            "name": "Omkar Chauhan",
+            "Review": "Today!! 🏆 Win 💰 Rs.40000 & Withdraw Money."
+        },
+        {
+            "name": "Ashish Dhariwal",
+            "Review": "Today!! 🏆 Win 💰 Rs.41000 & Withdraw Money."
+        },
+        {
+            "name": "Vagesh Vagesh",
+            "Review": "Today!! 🏆 Win 💰 Rs.42000 & Withdraw Money."
+        },
+        {
+            "name": "Ayisha Siraj",
+            "Review": "Today!! 🏆 Win 💰 Rs.43000 & Withdraw Money."
+        },
+        {
+            "name": "Kavitha Kodam",
+            "Review": "Today!! 🏆 Win 💰 Rs.44000 & Withdraw Money."
+        }
+    ],
+    "msg": "success",
+    "success": "1",
+    "error_code": "0"
+}
