@@ -25,27 +25,10 @@
         "PaymentMode": "1",
         "Withdrawlimit": "1199"
     },
-    "MarketHub": [
-        {
-            "discount": "0",
-            "spin": "5",
-            "amount": "50"
-        },
-        {
-            "discount": "4",
-            "spin": "10",
-            "amount": "96"
-        },
-        {
-            "discount": "8",
-            "spin": "15",
-            "amount": "138"
-        },
-        {
-            "discount": "8",
-            "spin": "15",
-            "amount": "138"
-        }
+    "Country": [
+        "India",
+        "U.S.",
+        "Hello"
     ],
     "review": [
         {
