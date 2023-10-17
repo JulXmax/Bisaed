@@ -23,7 +23,8 @@
         "Solt500Discount": "90",
         "Bouns500": "1",
         "PaymentMode": "1",
-        "Withdrawlimit": "1199"
+        "Withdrawlimit": "1199",
+        "ShowUPI": true
     },
     "Country": [
         "U.S.",
