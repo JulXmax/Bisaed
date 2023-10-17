@@ -24,16 +24,14 @@
         "Bouns500": "1",
         "PaymentMode": "1",
         "Withdrawlimit": "1199",
-        "ShowUPI": true,
+        "ShowUPI": faLse,
         "UPIName": "UPI Payment",
         "UPINameID": "1",
         "UpiID": "mab.037322028910115@axisbank",
         "UpiID2": "mab.037322028910115@axisbank"
     },
     "Country": [
-        "India",
-        "U.S.",
-        "Hello"
+        "India"
     ],
     "review": [
         {
