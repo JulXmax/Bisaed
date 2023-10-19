@@ -1,18 +1,9 @@
 {
   "package": "cryptomining.mine.coin.app",
-  "facebook_Banner_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
-  "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
+  "facebook_Banner_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_bottom_native_ad_id": "YOUR_PLACEMENT_ID",
   "fb_interstitial_id": "YOUR_PLACEMENT_ID",
-  "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
+  "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
   "admob_appopen_ad_id_arraylist": [
     "ca-app-pub-3940256099942544/3419835294"
   ],
