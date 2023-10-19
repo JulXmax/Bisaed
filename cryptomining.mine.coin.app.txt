@@ -21,7 +21,7 @@
   ],
   "facebook_back_ads_not_show": true,
   "facebook_banner_size": 320,
-  "yodo_banner_size": 320,
+  "yodo_banner_size": "320",
   "facebook_native_ad_type": "native",
   "ads_type": "facebook",
   "native_banner_ads_type": "nativebanner",
