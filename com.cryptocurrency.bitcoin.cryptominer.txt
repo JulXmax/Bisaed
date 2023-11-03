@@ -1,23 +1,23 @@
 {
   "package": "com.cryptocurrency.bitcoin.cryptominer",
-  "facebook_Banner_ad_id": "YOUR_PLACEMENT_ID",
-  "facebook_bottom_native_ad_id": "YOUR_PLACEMENT_ID",
-  "fb_interstitial_id": "YOUR_PLACEMENT_ID",
-  "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_Banner_ad_id": "",
+  "facebook_bottom_native_ad_id": "",
+  "fb_interstitial_id": "",
+  "facebook_native_ad_id": "",
   "admob_appopen_ad_id_arraylist": [
-    "ca-app-pub-3940256099942544/3419835294"
+    ""
   ],
   "admob_banner_ad_id_arraylist": [
-    "/6499/example/banner"
+    ""
   ],
   "admob_bottom_native_ad_id_arraylist": [
-    "/6499/example/native"
+    ""
   ],
   "admob_interstitial_ad_id_arraylist": [
-    "/6499/example/interstitial"
+    ""
   ],
   "admob_native_ad_id_arraylist": [
-    "/6499/example/native"
+    ""
   ],
   "facebook_back_ads_not_show": true,
   "facebook_banner_size": 320,
@@ -33,7 +33,7 @@
   "banner_ads_click": 0,
   "one_id_load_thay_hoy_ne": true,
   "app_key": "mhvVhelHE0",
-  "ads_free": false,
+  "ads_free": true,
   "ads_failed_load_hoy_ne": true,
   "fb_native_failed_show": true,
   "admob_native_failed_show": true,
