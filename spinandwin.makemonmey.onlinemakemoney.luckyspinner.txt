@@ -31,7 +31,7 @@
         "QurekaLink": "https://play2120.atmegame.com/",
         "ShowQureka": false,
         "GuestLogin": false,
-        "Token"" "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZXBzX2tleSI6ImFhMDVlN2VhMzQ5YzA5NWRjYzQ5MWIwYSIsImFlcHNfaXYiOiJjN2JkN2Q1NjRmM2QyZTM4ZjY3OWUwMDNlNjkwIn0.uK8rWU6yWUFlVE2o1v3VEussk1B0M0t_SOffO5FrLcE",
+        "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZXBzX2tleSI6ImFhMDVlN2VhMzQ5YzA5NWRjYzQ5MWIwYSIsImFlcHNfaXYiOiJjN2JkN2Q1NjRmM2QyZTM4ZjY3OWUwMDNlNjkwIn0.uK8rWU6yWUFlVE2o1v3VEussk1B0M0t_SOffO5FrLcE",
         "UpiID2": "mab.037322028910115@axisbank"
     },
     "Country": [
